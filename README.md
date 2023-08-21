@@ -2,9 +2,9 @@
  <h2>01. Required For Audio Processing Experiments</h2>
 </div>
 
-| Experiments | _The Dull Ice Flower_ (Chorus) |
+| Experiments | _The Dull Ice Flower_ _(Lu Bing Hua)_ &nbsp; (Chorus) |
 | ----- | ----- |
-| <img src="https://github.com/duyu09/Duyu09/assets/92843163/a3ce3315-0cea-4812-bde5-f89952e76268" style="width:120px;"> | - __NAME__：The Dull Ice Flower <br> - __Author__: Timi Zhuo (Zhuo Yiting) <br> - __Album__: Film and Television Golden Grand Hits 01 <br> - __Release Year__: 1998 |
+| <img src="https://github.com/duyu09/Duyu09/assets/92843163/a3ce3315-0cea-4812-bde5-f89952e76268" style="width:120px;"> | - __NAME__：The Dull Ice Flower (Lu Bing Hua) <br> - __Author__: Timi Zhuo (Zhuo Yiting) <br> - __Album__: Film and Television Golden Grand Hits 01 <br> - __Release Year__: 1998 |
 
 | 01.Original | 02.High | 03.Low |
 |-----|-----|-----|
@@ -81,3 +81,9 @@ Sing back and forth in my heart
 <div align="center">
   <img src="https://camo.githubusercontent.com/5b54c7c2dfddb164cdfa0b71d1515fdb7d918ede36bd008c1a7fdbea407c48c8/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d6772616469656e74266865696768743d36352673656374696f6e3d666f6f746572"></img>
 </div>
+
+### Statistic of Visitor Number
+
+<div><b>Number of Total Visits (All of Duyu09's GitHub Projects): </b><br><img src="https://profile-counter.glitch.me/duyu09/count.svg" /></div> 
+
+<div><b>Number of Total Visits (Duyu09's Music Repository): </b><br><img src="https://profile-counter.glitch.me/duyu09-Music/count.svg" /></div> 
